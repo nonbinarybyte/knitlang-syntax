@@ -1,0 +1,7 @@
+cast_on 10
+P yarn = "cotton"
+repeat 3 {
+  K row
+  YO
+}
+bind_off
